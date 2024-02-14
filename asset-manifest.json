@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/reactlogin/static/css/main.1e7df03b.css",
-    "main.js": "/reactlogin/static/js/main.11e7e394.js",
+    "main.js": "/reactlogin/static/js/main.20f66554.js",
     "static/js/787.16e8391f.chunk.js": "/reactlogin/static/js/787.16e8391f.chunk.js",
     "static/media/Calculator.png": "/reactlogin/static/media/Calculator.e43ef4630e3fc11b1fde.png",
     "static/media/Indeyka.jpeg": "/reactlogin/static/media/Indeyka.30ef542824b7d553d357.jpeg",
     "static/media/Weather.jpg": "/reactlogin/static/media/Weather.e7882e135cff21a26f2b.jpg",
     "index.html": "/reactlogin/index.html",
     "main.1e7df03b.css.map": "/reactlogin/static/css/main.1e7df03b.css.map",
-    "main.11e7e394.js.map": "/reactlogin/static/js/main.11e7e394.js.map",
+    "main.20f66554.js.map": "/reactlogin/static/js/main.20f66554.js.map",
     "787.16e8391f.chunk.js.map": "/reactlogin/static/js/787.16e8391f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e7df03b.css",
-    "static/js/main.11e7e394.js"
+    "static/js/main.20f66554.js"
   ]
 }
